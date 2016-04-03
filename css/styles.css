@@ -102,10 +102,11 @@ h1 {
   font-size:40px;
   position:absolute;
   z-index:1200;
-  color:#333;
+  color:#000000;
   top:70px;
   text-align:center;
   width:100%;
+  background-color: #ffffff;
 }
 
 #nav {
